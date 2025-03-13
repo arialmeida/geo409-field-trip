@@ -2,13 +2,13 @@
 
 ### Maps for field trip to measure tree canopy
 
-![Landcover](C:\ArisGIS\geo409-field-trip\LayoutKYLandCover.jpg)
+![Landcover](LayoutKYLandCover.jpg)
 
-Kentucky map with selected land cover types - [Download geospatial PDF](C:\ArisGIS\geo409-field-trip\LayoutKYLandCover.pdf)
+Kentucky map with selected land cover types - [Download geospatial PDF](LayoutKYLandCover.pdf)
 
 
-![Trees]()
+![Trees](trees.jpg)
 
-UKy central campus canopy model - [Download geospatial PDF]()
+UKy central campus canopy model - [Download geospatial PDF](trees.pdf)
 
-Maps created by Ari Almeida for GEO409, Spring 2025, University of Kentucky Department of Geography
+Maps created by Ari Almeida for GEO409, Spring 2025, University of Kentucky Department of Geography.
